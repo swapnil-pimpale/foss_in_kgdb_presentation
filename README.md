@@ -1,4 +1,5 @@
 foss_in_kgdb_presentation
 =========================
 
-KGDB presentation at FOSS.IN 2012
+My presentation on KGDB at FOSS.IN 2012
+(http://foss.in/profiles/swapnil-pimpale)
